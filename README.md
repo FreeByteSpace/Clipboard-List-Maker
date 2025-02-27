@@ -23,4 +23,4 @@ E-mail: figaro.tam.figaro.sdes@gmail.com
 
 Youtube: https://www.youtube.com/watch?v=wokUzf36PPA
 
-https://github.com/FreeByteSpace/Clipboard-List-Maker/releases/download/clm1.0.1/ClipboardListMaker_1.0.1.exe
+https://github.com/FreeByteSpace/Clipboard-List-Maker/releases/download/clm1.0.1/ClipboardListMaker_1.0.1_SFX.exe
